@@ -8,7 +8,7 @@ The player has a sudden layover and experiences five days in Las Vegas with choi
 
 ## How to Run
 Steps:
-1. Download or clone this repository
+1. Copy & paste from main.py and backbone.py and create 2 files for each onto an IDE
 2. Make sure `main.py` and `backbone.py` are in the same folder
 3. Run the game with:
 python main.py
