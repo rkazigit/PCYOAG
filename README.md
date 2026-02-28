@@ -1,2 +1,2 @@
 # PCYOAG
-This is the code to my Python Adventure Game!
+This is the code to my text-based Python Adventure Game!
